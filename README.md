@@ -18,7 +18,7 @@ These are the strategies mapped to Hedgehog Markets. They run here once its adap
 | Strategy |
 |----------|
 | 🎯 **Copy Trading** — mirror wallets that already proved they have alpha |
-| 🎯 **Directional Arbitrage** — arb base (Up + Down < $1), tilted toward the side with more edge |
+| 🎯 **Directional Arbitrage** — rest Yes + No bids under $1, tilted toward the side with more edge |
 
 > Want a strategy not listed here on Hedgehog Markets? Adapter coverage is demand-driven — [ask](https://t.me/tarpboi).
 
