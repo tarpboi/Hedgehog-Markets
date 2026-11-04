@@ -7,7 +7,7 @@
 
 > **Hedgehog Markets trading bot** — Solana / social. Part of the [Prediction Market Toolkits](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits) suite: one execution core, one risk layer, every venue.
 
-**Hedgehog Markets** is mapped to the shared engine, but its adapter isn't wired yet. This repo holds venue metadata; the trading code lives in the main toolkit, which executes on Polymarket today.
+**Hedgehog Markets** is mapped to the shared engine, but its adapter isn't wired yet. This repo holds venue metadata; the trading code lives in the main toolkit, which has adapters for Predict.fun and Polymarket today.
 
 ---
 
@@ -26,7 +26,7 @@ These are the strategies mapped to Hedgehog Markets. They run here once its adap
 
 ## Quickstart
 
-The trading code lives in the main toolkit. Clone it, add your keys, and start in dry-run. It runs against Polymarket today.
+The trading code lives in the main toolkit. Clone it, add your keys, and start in dry-run. Its adapters today are Predict.fun and Polymarket.
 
 ```bash
 git clone https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits.git
